@@ -1,16 +1,22 @@
-## Hi there 👋
+# 💫 About Me:
+# Hi there! ¡Hola! 👋<br><br>## 🚀 About Me / Sobre mí<br><br>**EN:** I am a Software Developer specialized in **Backend Development**, focused on building scalable and robust architectures. As the founder of **Almyweb**, I lead a technical team dedicated to transforming complex problems into high-performance digital solutions.<br><br>**ES:** Soy un Desarrollador de Software especializado en **Desarrollo Backend**, enfocado en construir arquitecturas robustas y escalables. Como fundador de **Almyweb**, lidero un equipo técnico dedicado a transformar problemas complejos en soluciones digitales de alto rendimiento.<br><br>---<br><br>## 🛠️ What we do at Almyweb / Lo que hacemos en Almyweb<br><br>We provide end-to-end technological solutions / Ofrecemos soluciones tecnológicas integrales:<br><br>*   **Enterprise Systems:** Custom POS and Management Software.<br>    *(Sistemas Empresariales: Software POS y de gestión a medida.)*<br>*   **Web Development:** High-performance Websites and Web Applications.<br>    *(Desarrollo Web: Sitios y aplicaciones web de alto rendimiento.)*<br>*   **Mobile Solutions:** Native and Cross-platform Mobile Apps.<br>    *(Soluciones Móviles: Apps nativas y multiplataforma.)*<br>*   **SaaS:** Scalable Software as a Service platforms.<br>    *(SaaS: Plataformas de software como servicio escalables.)*<br><br>---<br><br>## 💻 Tech Stack / Tecnologías<br><br>*   **Backend:** Laravel, Supabase, SQL (PostgreSQL, MongoDB).<br>*   **Frontend & Mobile:** React, Tailwind CSS, Flutter.<br>*   **Infrastructure:** Web Hosting & Digital Architecture.<br><br>---<br><br>## 🌐 Connect / Contacto<br><br>*   **Official Website:** [almyweb.com](https://almyweb.com)<br>*   **Portfolio/Company:** [Almyweb](https://github.com/Almyweb)
 
-<!--
-**alof2003-art/alof2003-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/alonso_32) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akins_32?igsh=NnV2Z3YyaWc0eDFu) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=alof2003-art&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=alof2003-art&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=alof2003-art&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=alof2003-art&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@GabrielJimenez2003) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
